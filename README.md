@@ -1,0 +1,1 @@
+Develop simple page with links to several receipes
